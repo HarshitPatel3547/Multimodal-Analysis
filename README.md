@@ -50,5 +50,5 @@ Access to more hardware and the ability to generate **video encodings** would li
 
 This project has potential future applications, such as analyzing video and audio data to determine a person's emotions or sentiments. This could help assess whether someone is lying, has malicious intentions, or other psychological cues.
 
-## Contributors
-* Totemish (Author)
+## Author
+* Harshit Patel
